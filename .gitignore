@@ -1,0 +1,60 @@
+# ================================
+# Tree of Savior — tos-spanish
+# ================================
+
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.orig
+
+# Archivos generados por editores
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.code-workspace
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Backups de traducción
+backup/
+backups/
+_backup/
+*.tsv.bak
+
+# Archivos temporales de traducción
+*.tsv.tmp
+*.tsv.temp
+
+# Herramientas locales
+tools/local/
+scripts/local/
+
+# Datos locales que no deben entrar al repositorio
+.env
+.env.*
+!.env.example
+
+# Carpetas de dependencias si se utilizan herramientas auxiliares
+node_modules/
+vendor/
+
+# Builds y archivos generados
+dist/
+build/
+out/
+
+# Archivos comprimidos generados localmente
+*.zip
+*.7z
+*.rar
