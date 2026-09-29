@@ -25,23 +25,23 @@ El proyecto trabaja principalmente con archivos **TSV** que contienen textos de 
 
 ## 🗂️ Contenido
 
-| Archivo | Contenido |
-|---|---|
-| `BADWORDS.tsv` | Palabras y filtros de texto |
-| `ETC.tsv` | Textos diversos |
-| `INTL.tsv` | Textos de internacionalización |
-| `ITEM.tsv` | Objetos y equipamiento |
-| `QUEST.tsv` | Misiones |
-| `QUEST_JOBSTEP.tsv` | Pasos relacionados con misiones de clase |
-| `QUEST_LV_0100.tsv` | Misiones por rango de nivel 1–100 |
-| `QUEST_LV_0200.tsv` | Misiones por rango de nivel 101–200 |
-| `QUEST_LV_0300.tsv` | Misiones por rango de nivel 201–300 |
-| `QUEST_LV_0400.tsv` | Misiones por rango de nivel 301–400 |
-| `QUEST_UNUSED.tsv` | Textos de misiones sin uso |
-| `SKILL.tsv` | Habilidades |
-| `UI.tsv` | Interfaz de usuario |
-| `font/` | Recursos relacionados con fuentes |
-| `fontlist.xml` | Configuración/listado de fuentes |
+| Estado | Archivo | Contenido |
+|:------:|---|---|
+| ❌ | `BADWORDS.tsv` | Palabras y filtros de texto |
+| 🔄 | `ETC.tsv` | Textos diversos |
+| ⚠️ | `INTL.tsv` | Textos de internacionalización |
+| 🔄 | `ITEM.tsv` | Objetos y equipamiento |
+| ✅ | `QUEST.tsv` | Misiones |
+| ✅ | `QUEST_JOBSTEP.tsv` | Pasos relacionados con misiones de clase |
+| ✅ | `QUEST_LV_0100.tsv` | Misiones por rango de nivel 1–100 |
+| ❌ | `QUEST_LV_0200.tsv` | Misiones por rango de nivel 101–200 |
+| ❌ | `QUEST_LV_0300.tsv` | Misiones por rango de nivel 201–300 |
+| ❌ | `QUEST_LV_0400.tsv` | Misiones por rango de nivel 301–400 |
+| ❌ | `QUEST_UNUSED.tsv` | Textos de misiones sin uso |
+| 🔄 | `SKILL.tsv` | Habilidades |
+| 🔄 | `UI.tsv` | Interfaz de usuario |
+| — | `font/` | Recursos relacionados con fuentes |
+| — | `fontlist.xml` | Configuración/listado de fuentes |
 
 ---
 
