@@ -29,7 +29,7 @@ El proyecto trabaja principalmente con archivos **TSV** que contienen textos de 
 |:------:|---|---|
 | ❌ | `BADWORDS.tsv` | Palabras y filtros de texto |
 | 🔄 | `ETC.tsv` | Textos diversos |
-| ⚠️ | `INTL.tsv` | Textos de internacionalización |
+| ✅ | `INTL.tsv` | Textos de internacionalización |
 | 🔄 | `ITEM.tsv` | Objetos y equipamiento |
 | ✅ | `QUEST.tsv` | Misiones por rango de nivel 1 - 100 |
 | ✅ | `QUEST_JOBSTEP.tsv` | Pasos relacionados con misiones de clase |
@@ -39,7 +39,7 @@ El proyecto trabaja principalmente con archivos **TSV** que contienen textos de 
 | ❌ | `QUEST_LV_0400.tsv` | Misiones por rango de nivel 400-500 |
 | ❌ | `QUEST_UNUSED.tsv` | Textos de misiones sin uso |
 | 🔄 | `SKILL.tsv` | Habilidades |
-| 🔄 | `UI.tsv` | Interfaz de usuario |
+| ✅ | `UI.tsv` | Interfaz de usuario |
 | — | `font/` | Recursos relacionados con fuentes |
 | — | `fontlist.xml` | Configuración/listado de fuentes |
 
