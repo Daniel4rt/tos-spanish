@@ -2616,27 +2616,27 @@ UI_20170330_002615	{@st42}Ingresar	{@st42}참석하기
 UI_20170330_002616	{@st42}Cerrar	{@st42}닫기				
 UI_20170330_002617	{@st59}Cerrar Mensaje cuadro{/}	{@st59}메시지 함을 닫습니다{/}	UI_20150317_000017	{@st59}Close{/}	{@st59}경매장을 닫습니다{/}	
 UI_20170330_002618	{#62100c}Intransferible objetos: %s	{#62100c}거래불가 개수 : %s개	UI_20150918_001804	Total Untradable: %s	총 거래 불가: %s개	
-UI_20170330_002619	Tradability	거래 옵션				
+UI_20170330_002619	Comerciabilidad	거래 옵션				
 UI_20170330_002620	Tienda	상점				
 UI_20170330_002621	personal	개인				
-UI_20170330_002622	Tradability	거래{nl} 옵션				
+UI_20170330_002622	Comerciabilidad	거래{nl} 옵션				
 UI_20170330_002623	%s Objeto Descripción %s	%s 로 아이템 설명 %s				
 UI_20170330_002624	{@59}Crear Invitar Tag{/}	{@59}초대 태그 생성{/}				
-UI_20170330_002625	{@59}Leave{/}	{@59}나가기{/}				
-UI_20170330_002626	%s objetos sent.	%s개 지급되었습니다.				
+UI_20170330_002625	{@59}Irse{/}	{@59}나가기{/}				
+UI_20170330_002626	%s objetos enviados.	%s개 지급되었습니다.				
 UI_20170330_002627	Objeto	아이템명				
-UI_20170330_002628	Expiration Date	기간만료				
-UI_20170330_002629	mercado plata instantly retrievable	마켓 판매금 즉시 수령				
-UI_20170330_002630	Registration Outside de máx../Precio mínimo Allowed	마켓 상/하한가 관계없이 물품 등록 가능				
-UI_20170330_002631	Movable via Equipo Almacén	팀 창고 이용 가능				
+UI_20170330_002628	Fecha de expiración	기간만료				
+UI_20170330_002629	plata del mercado retirada instantáneamente	마켓 판매금 즉시 수령				
+UI_20170330_002630	Registro fuera del máximo../Precio mínimo permitido	마켓 상/하한가 관계없이 물품 등록 가능				
+UI_20170330_002631	Movible por el equipo almacén	팀 창고 이용 가능				
 UI_20170418_002632	{@st66} * Si la lista de compras no aparece correctamente debido a un error temporal, intenta pulsar el botón «Recuperar todo» para recibir el objeto.{/}	{@st66}일시적인 오류로 구매 내역이 표시되지 않을 경우, 전체 수령 버튼을 클릭하여 수령을 시도해 보시기 바랍니다.{/}				
-UI_20170418_002633	{@st68}Reload{/}	{@st68}새로고침				
+UI_20170418_002633	{@st68}Recargar{/}	{@st68}새로고침				
 UI_20170418_002634	{@st68}Retirar todos{/}	{@st68}전체수령				
 UI_20170418_002635	Puntos necesarios	필요 포인트				
 UI_20170419_002636	{@st66b}Ver más{/}	{@st66b}친구 더 보기{/}				
 UI_20170419_002637	Haz clic a ver más amigo Información.	클릭하면 더 많은 친구 정보를 볼 수 있습니다				
-UI_20170419_002638	I agree a being matched en un grupo de 2 a 4 jugadores.	4인 이하로 매칭될 수 있는 데에 동의합니다.				
-UI_20170420_002639	My puntos:	내 특성 포인트 :				
+UI_20170419_002638	Estoy de acuerdo con emparejarse de 2-4 jugadores.	4인 이하로 매칭될 수 있는 데에 동의합니다.				
+UI_20170420_002639	Mis puntos:	내 특성 포인트 :				
 UI_20170420_002640	{@st66b}Comprar atributo Puntos	{@st66b}특성 포인트 구매				
 UI_20170420_002641	{@st66d}Comprar atributo Puntos	{@st66d}특성 포인트 구매				
 UI_20170420_002642	Comprar Tasa	구매 비율				
@@ -2667,7 +2667,7 @@ UI_20170726_002666	{@st43}Caja de aparejos{/}	{@st43}살림통{/}
 UI_20170726_002667	{@sti1}Objetos{/}	{@sti1}아이템{/}				
 UI_20170726_002668	{@st42b}Recibir objetos{/}	{@st42b}아이템 수령{/}				
 UI_20170726_002669	{@st42b}Detener pesca{/}	{@st42b}낚시 종료{/}				
-UI_20170726_002670	{@sti1}Fishing Cycles{/}	{@sti1}낚시 횟수{/}				
+UI_20170726_002670	{@sti1}Ciclos de pesca{/}	{@sti1}낚시 횟수{/}				
 UI_20170726_002671	{@st43}Clasificación de pesca{/}	{@st43}낚시 랭킹{/}				
 UI_20170726_002672	{@st59}Cerrar Clasificación de pesca.{/}	{@st59}낚시 랭킹 창을 닫습니다.{/}				
 UI_20170726_002673	Puntos	낚시 포인트				
