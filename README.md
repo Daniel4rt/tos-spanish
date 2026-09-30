@@ -34,8 +34,8 @@ El proyecto trabaja principalmente con archivos **TSV** que contienen textos de 
 | ✅ | `QUEST.tsv` | Misiones por rango de nivel 1 - 100 |
 | ✅ | `QUEST_JOBSTEP.tsv` | Pasos relacionados con misiones de clase |
 | ✅ | `QUEST_LV_0100.tsv` | Misiones por rango de nivel 100-200 |
-| ❌ | `QUEST_LV_0200.tsv` | Misiones por rango de nivel 200-300 |
-| ❌ | `QUEST_LV_0300.tsv` | Misiones por rango de nivel 300-400 |
+| ✅ | `QUEST_LV_0200.tsv` | Misiones por rango de nivel 200-300 |
+| ✅ | `QUEST_LV_0300.tsv` | Misiones por rango de nivel 300-400 |
 | ❌ | `QUEST_LV_0400.tsv` | Misiones por rango de nivel 400-500 |
 | ❌ | `QUEST_UNUSED.tsv` | Textos de misiones sin uso |
 | ✅ | `SKILL.tsv` | Habilidades |
