@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tree of Savior — Español 🇲🇽
+# Tree of Savior — Español
 
 **Traducción al español de los textos del cliente clásico de Tree of Savior.**
 
