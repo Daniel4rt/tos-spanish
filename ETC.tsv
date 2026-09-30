@@ -81916,3 +81916,119 @@ ETC_20260724_081900	Capucha de Sacerdote Sombrío	칠흑의 사제 후드
 ETC_20260724_081901	Velo de Monja Sombría	칠흑의 수녀 베일				
 ETC_20260724_081902	Capucha de Sacerdote Sombrío (M)	칠흑의 사제 후드(남)				
 ETC_20260724_081903	Velo de Monja Sombría (F)	칠흑의 수녀 베일(여)				
+ETC_20260823_0600001	Otorga los beneficios del Token a todos tus personajes en el servidor durante 5 minutos. Consulta el tiempo restante en Información del personaje.{nl}[Beneficios del Token]{nl} - Reduce la comisión del Mercado (10% {img white_right_arrow 16 16} 5%){nl}- Velocidad de movimiento +3{nl} - +30% de EXP al cazar monstruos{nl}(Se acumula con los efectos del Tomo de EXP){nl}- +30 espacios en el almacenamiento del equipo{nl} - Permite usar Gestos Premium{nl} - La exploración del mapa se comparte entre los personajes de la cuenta	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 5분간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +30% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 +30칸 증가{nl} - 프리미엄 제스쳐 사용 가능	ETC_20171128_029970	Applies Token benefits to all your characters in the server for 1 hour. Right-click to use. Remaining time can be checked in the Character Info window. {nl}[Token Benefits]{nl} - Able to learn attributes instantly{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} -  - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantly{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Able to use Team Storage{nl}  - Able to use Premium Gestures{nl} - Additional +1 reward from Saalus Missions{nl} - Raid Dungeon Entry Item consume quantity -2 	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 1시간 동안 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 살러스 수녀원 미션 완료 보상 +1{nl} - 레이드 던전 입장 아이템 소모 개수 -2	
+ETC_20260823_0600002	Otorga los beneficios del Token a todos tus personajes en el servidor durante 10 minutos. Consulta el tiempo restante en Información del personaje.{nl}[Beneficios del Token]{nl} - Reduce la comisión del Mercado (10% {img white_right_arrow 16 16} 5%){nl}- Velocidad de movimiento +3{nl} - +30% de EXP al cazar monstruos{nl}(Se acumula con los efectos del Tomo de EXP){nl}- +30 espacios en el almacenamiento del equipo{nl} - Permite usar Gestos Premium{nl} - La exploración del mapa se comparte entre los personajes de la cuenta	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 10분간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +30% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 +30칸 증가{nl} - 프리미엄 제스쳐 사용 가능	ETC_20171128_029970	Applies Token benefits to all your characters in the server for 1 hour. Right-click to use. Remaining time can be checked in the Character Info window. {nl}[Token Benefits]{nl} - Able to learn attributes instantly{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} -  - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantly{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Able to use Team Storage{nl}  - Able to use Premium Gestures{nl} - Additional +1 reward from Saalus Missions{nl} - Raid Dungeon Entry Item consume quantity -2 	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 1시간 동안 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 살러스 수녀원 미션 완료 보상 +1{nl} - 레이드 던전 입장 아이템 소모 개수 -2	
+ETC_20260823_0600003	Otorga los beneficios del Token a todos tus personajes en el servidor durante 30 minutos. Consulta el tiempo restante en Información del personaje.{nl}[Beneficios del Token]{nl} - Reduce la comisión del Mercado (10% {img white_right_arrow 16 16} 5%){nl}- Velocidad de movimiento +3{nl} - +30% de EXP al cazar monstruos{nl}(Se acumula con los efectos del Tomo de EXP){nl}- +30 espacios en el almacenamiento del equipo{nl} - Permite usar Gestos Premium{nl} - La exploración del mapa se comparte entre los personajes de la cuenta	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 30분간 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +30% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 +30칸 증가{nl} - 프리미엄 제스쳐 사용 가능	ETC_20171128_029970	Applies Token benefits to all your characters in the server for 1 hour. Right-click to use. Remaining time can be checked in the Character Info window. {nl}[Token Benefits]{nl} - Able to learn attributes instantly{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} -  - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantly{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Able to use Team Storage{nl}  - Able to use Premium Gestures{nl} - Additional +1 reward from Saalus Missions{nl} - Raid Dungeon Entry Item consume quantity -2 	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 1시간 동안 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 이용 가능{nl} - 프리미엄 제스쳐 사용 가능{nl} - 살러스 수녀원 미션 완료 보상 +1{nl} - 레이드 던전 입장 아이템 소모 개수 -2	
+ETC_20260618_050001	Campo de Caza	사냥터				
+ETC_20260204_090003	Asistencia de marzo	3월 출석		
+ETC_20260209_090100	Pase de batalla
+ETC_20260209_090130	Nivel actual: %d/28
+ETC_20260204_090004	Asistencia de abril	4월 출석		
+ETC_20260204_090005	Asistencia de mayo	5월 출석		
+ETC_20260204_090006	Asistencia de junio	6월 출석		
+ETC_20260204_090007	Asistencia de julio	7월 출석		
+ETC_20260204_090008	Asistencia de agosto	8월 출석		
+ETC_20260204_090009	Asistencia de septiembre	9월 출석		
+ETC_20260204_090010	Asistencia de octubre	10월 출석		
+ETC_20260204_090011	Asistencia de noviembre	11월 출석		
+ETC_20260204_090012	Asistencia de diciembre	12월 출석		
+ETC_20260204_090001	Asistencia de febrero	February Attendance
+ETC_20260204_090002	Asistencia de enero	1월 출석		
+ETC_20260212_090140	Ya tienes un Pase de batalla activo. Usar otro pase reiniciará el progreso del pase actual. ¿Quieres continuar?
+ETC_20260213_090200	No puedes usar más de un Ticket de expansión del Pase de batalla al día.
+ETC_20260213_090201	Restante del día
+ETC_20260403_040001	Receta - Ballesta Ruma	제작서-루마 크로스보우				
+ETC_20260403_040002	Receta - Aguijón	제작서-스팅어	
+ETC_20260405_900001	{ID_NAME} (Nv. de Rec.: {ID_LV}, Rango {PC_RANK}) Costo: {COST}S	{ID_NAME}(권장레벨:{ID_LV}, 제한랭크:{PC_RANK}) 비용: {COST}실버			
+ETC_20260405_900002	Te enviaré a la entrada de {ID_NAME} por {COST} de plata.{nl}¿Está bien?	{ID_NAME} 입구까지 {COST}실버를 받고 보내드리겠습니다.{nl}괜찮으신가요?			
+ETC_20260405_900003	No tienes suficiente plata.	실버가 부족합니다.			
+ETC_20260419_040001	Seleccionado
+ETC_20260419_040002	Haz clic en el cuadrado
+ETC_20260419_040003	Seleccionado: este objeto se consumirá para conservar la gema de habilidad
+ETC_20260419_040004	Haz clic para usar este material y conservar la gema de habilidad
+ETC_20260419_040005	Cualquier gema de habilidad
+ETC_20260419_040006	Seleccionado: esta gema de habilidad se consumirá para conservar la gema de habilidad equipada
+ETC_20260419_040007	Haz clic para seleccionar la primera gema de habilidad encontrada en tu inventario
+ETC_20260419_040008	Haz clic para seleccionar una gema de habilidad de tu inventario
+ETC_20260419_040009	Falta el material requerido.
+ETC_20260419_040010	Falta la gema de habilidad requerida.
+ETC_20260419_040011	El último espacio es exclusivo para gemas de habilidad.
+ETC_20260423_040001	Haz clic para seleccionar este objeto de mejora	클릭하여 이 강화 아이템을 선택하세요			
+ETC_20260424_040001	Haz clic en el dispositivo para restaurar el potencial.	포텐셜을 복구할 장비를 클릭하세요.			
+ETC_20260513_040001	Ha comenzado el Tiempo Especial de Campos de Caza: EXP, plata, botín, PS, Defensa y Ataque de los monstruos x2.	헌팅 그라운드 핫타임이 시작되었습니다. EXP, 실버, 드롭, 몬스터 HP와 방어력이 2배로 적용됩니다.
+ETC_20260513_040002	El Tiempo Especial de Campos de Caza comenzará en 3 min: EXP, plata, botín, PS, Defensa y Ataque de los monstruos x2.	헌팅 그라운드 핫타임이 3분 후 시작됩니다. EXP, 실버, 드롭, 몬스터 HP와 방어력이 2배로 적용됩니다.
+ETC_20260513_040003	El Tiempo Especial de Campos de Caza ha terminado.	헌팅 그라운드 핫타임이 종료되었습니다.
+ETC_20260703_060001	+{VAL} / nivel	+{VAL} / 레벨			
+ETC_20260703_060002	Nv. {CUR}  (máx. {CAP})	Lv {CUR}  (최대 {CAP})			
+ETC_20260703_060003	Nv. {CUR} -> {NEW}  (máx. {CAP})	Lv {CUR} -> {NEW}  (최대 {CAP})			
+ETC_20260703_060004	Costo: {COST}	비용: {COST}			
+ETC_20260703_060005	MÁX.	MAX			
+ETC_20260703_060006	Al nivel máximo (Nv. {MAX}): {BONUS}	최대 레벨(Lv {MAX}) 시: {BONUS}			
+ETC_20260703_060007	No hay bonificaciones de gremio activas.	활성화된 길드 보너스가 없습니다.			
+ETC_20260703_060008	Función de compra no disponible (Yuka.dll).	구매 기능을 사용할 수 없습니다 (Yuka.dll).			
+ETC_20260703_060009	Fondos insuficientes del gremio.	길드 자금이 부족합니다.			
+ETC_20260719_070001	Invoca a todos los miembros del gremio.	길드원 전원을 소환합니다.			
+ETC_20260719_070008	Restaura los PS/PE de los miembros del gremio.	길드원의 HP/SP를 즉시 회복합니다.			
+ETC_20260719_070009	Aumenta la FUE de los miembros del gremio.	길드원의 STR이 증가합니다.			
+ETC_20260719_070010	Aumenta la CON de los miembros del gremio.	길드원의 CON이 증가합니다.			
+ETC_20260719_070011	Aumenta la INT de los miembros del gremio.	길드원의 INT가 증가합니다.			
+ETC_20260719_070012	Aumenta la DES de los miembros del gremio.	길드원의 DEX가 증가합니다.			
+ETC_20260719_070013	Aumenta el ESP de los miembros del gremio.	길드원의 SPR이 증가합니다.			
+ETC_20260719_070014	Regenera los PS/PE de los miembros del gremio.	길드원의 HP/SP를 회복시킵니다.			
+ETC_20260719_070015	Aura del líder	리더의 오라			
+ETC_20260719_070016	Los miembros del gremio cercanos al líder reciben los valores completos de la bonificación.	리더 주변의 길드원은 길드 버프의 보너스 최대치를 받습니다.			
+ETC_20260719_070017	Nv.	Nv			
+ETC_20260719_070018	activo	ativo			
+ETC_20260720_070001	La Torre del Gremio debe estar en el nivel {LEVEL} para aplicar puntos de habilidad del gremio.	길드 어빌리티 포인트를 사용하려면 길드 타워 레벨이 {LEVEL} 이상이어야 합니다.			
+ETC_20260724_060001	EXP de gremio	길드 경험치			
+ETC_20260724_060002	Subasta	입찰 보상			
+ETC_20260724_060003	No hay recompensa registrada	등록된 보상 없음			
+ETC_20260725_070001	Retorno	긴급 소집			
+ETC_20260725_070002	Puedes teletransportarte directamente al{nl}Lugar de reunión del gremio, pero solo podrás{nl}teletransportarte de nuevo en {MIN} minutos.	Voce pode teleportar diretamente para o Hangout da guilda, mas so podera teleportar novamente em {MIN} minutos.			
+ETC_20260725_070003	Tu gremio todavía no tiene un Lugar de reunión.	Sua guilda ainda nao possui um Hangout.			
+ETC_20260725_070004	Puedes teletransportarte de nuevo en {MIN} minuto(s).	Voce podera teleportar novamente em {MIN} minuto(s).			
+ETC_20260726_070001	La Torre del Gremio debe estar construida en el mundo para usar esto.	이 기능을 사용하려면 길드 타워가 월드에 설치되어 있어야 합니다.			
+ETC_20260726_070002	La torre solo puede retirarse {HOURS} hora(s) después de haber sido construida.	길드 타워는 설치 후 {HOURS}시간이 지나야 철거할 수 있습니다.			
+ETC_20260726_070003	Bonificación por mantener al gremio fuera del estado neutral: EXP, botín y plata. Requiere tener construida la Torre del Gremio.	길드를 중립 상태가 아닌 상태로 유지하면 경험치, 드롭, 실버 보너스를 받습니다. 길드 타워 설치가 필요합니다.			
+ETC_20260726_070004	Bonificación de Guerra de Gremios	길드 전쟁 보너스			
+ETC_20260731_080001	Ubicación del maestro	마스터 위치			
+ETC_20260808_090001	Máx. de miembros del gremio +2	최대 길드원 수 +2			
+ETC_20260830_070001	Recompensa de guerra	전쟁 보상				
+ETC_20260830_070002	Ingresos por tarifas	관세 징수액				
+ETC_20260830_070003	Consultando el servidor...	서버 조회 중...				
+ETC_20260830_070004	Período cubierto:   {PERIODO}	집계 기간:   {PERIODO}				
+ETC_20260830_070005	El período no fue reportado por el servidor.	서버에서 기간 정보를 받지 못했습니다.				
+ETC_20260830_070006	Volumen del Mercado en el período:   {#006400}{VAL} plata{/}	기간 내 거래소 거래액:   {#006400}{VAL} 실버{/}				
+ETC_20260830_070007	No hay territorios en disputa en este momento.	현재 분쟁 중인 영지가 없습니다.				
+ETC_20260830_070008	{PCT}% del volumen	거래액의 {PCT}%				
+ETC_20260830_070009	{#006400}{MOEDAS} moneda(s){/}   {#2B1A0F}({SILVER} plata){/}	{#006400}코인 {MOEDAS}개{/}   {#2B1A0F}({SILVER} 실버){/}				
+ETC_20260830_070010	La recompensa proviene del impuesto del MERCADO DE JUGADORES de la semana anterior y se paga al ganador 1 h después de que termina la guerra. Una semana sin volumen de mercado = sin recompensa.	보상은 지난주 거래소 수수료에서 나오며, 전쟁 종료 1시간 후 승리 길드에게 지급됩니다. 거래소 거래가 없었던 주에는 보상도 없습니다.				
+ETC_20260830_070011	RECAUDANDO AHORA	현재 징수 중				
+ETC_20260830_070012	No hay ninguna ciudad con impuestos en este momento.	현재 관세를 징수하는 도시가 없습니다.				
+ETC_20260830_070013	tasa  {TAXA}%	세율  {TAXA}%				
+ETC_20260830_070014	{#006400}{VAL} plata{/}	{#006400}{VAL} 실버{/}				
+ETC_20260830_070015	Total:  {#006400}{VAL} plata{/}	합계:  {#006400}{VAL} 실버{/}				
+ETC_20260830_070016	POR DISTRIBUIR   {#2B1A0F}(fondo cerrado){/}	분배 대기   {#2B1A0F}(마감된 정산분){/}				
+ETC_20260830_070017	Falta por distribuir:   {#006400}{VAL} plata{/}	분배 잔여액:   {#006400}{VAL} 실버{/}				
+ETC_20260830_070018	Límite del líder:   {DIAS} día(s)	길드 마스터 기한:   {DIAS}일				
+ETC_20260830_070019	Tasa del 10% = PRECIO NORMAL: la tarifa no es un impuesto nuevo; al 10% pagas lo mismo que siempre. Por debajo del 10% es más barato; el límite (20%) lo hace 10% más caro. La tarifa proviene de los servicios de los PNJ en las ciudades conquistadas.	세율 10% = 기본 가격입니다. 관세는 새로 붙는 세금이 아니며, 10%에서는 평소와 같은 값을 냅니다. 10% 미만이면 더 싸지고, 상한(20%)이면 10% 비싸집니다. 관세는 점령한 도시의 NPC 서비스에서 나옵니다.				
+ETC_20260830_070020	Transparencia de la Guerra de Colonia	콜로니 전쟁 정보 공개				
+ETC_20260830_070021	Tasa 10 = precio de hoy. 0 lo hace 10% más barato, 20 lo hace 10% más caro. Lo acumulado solo estará disponible para distribuir después de que la siguiente guerra cierre el fondo.	세율 10 = 현재 가격. 0이면 10% 저렴, 20이면 10% 비싸집니다. 적립 중인 금액은 다음 콜로니 전쟁이 정산분을 마감한 뒤에야 분배할 수 있습니다.				
+ETC_20260830_070022	Solo el maestro del gremio puede cambiar la tasa.	길드 마스터만 세율을 변경할 수 있습니다.				
+ETC_20260830_070023	vence hoy	오늘 만료				
+ETC_20260830_070024	{DIAS} día(s)	{DIAS}일				
+ETC_20260830_070025	Total por recibir: {#00A000}{VAL} plata{/}   {#2B1A0F}(todo lo que no se retire a tiempo se pierde){/}	수령 합계: {#00A000}{VAL} 실버{/}   {#2B1A0F}(기한 내 수령하지 않으면 소멸){/}				
+ETC_20260830_070026	Solo el maestro del gremio puede distribuir los ingresos.	길드 마스터만 징수액을 분배할 수 있습니다.				
+ETC_20260830_070027	No hay fondo para distribuir (el fondo se congela cuando comienza la siguiente guerra).	분배할 정산분이 없습니다 (다음 전쟁이 시작되면 정산분이 마감됩니다).				
+ETC_20260830_070028	{N} pendientes	{N}건 미수령				
+ETC_20260830_070029	Fondo restante:   {#00A000}{VAL} plata{/}   {#2B1A0F}límite para distribuir: {DIAS} día(s); si un miembro acumula demasiados pagos pendientes sin retirarlos, se rechazarán nuevas distribuciones para él hasta que retire los pendientes{/}	정산분 잔여액: {#00A000}{VAL} 실버{/}   {#2B1A0F}분배 기한: {DIAS}일. 수령하지 않은 미수령 건이 너무 많이 쌓인 길드원에게는, 그가 수령할 때까지 추가 분배가 거부됩니다{/}				
+ETC_20260830_070030	No hay ingresos disponibles para distribuir.	분배할 수 있는 징수액이 없습니다.				
+ETC_20260830_070031	Algunos miembros no recibieron el pago (cambiaron de nombre o abandonaron el gremio). Su parte sigue disponible.	일부 길드원에게는 지급되지 않았습니다 (이름을 변경했거나 길드를 탈퇴했습니다). 해당 금액은 그대로 남아 있습니다.				
+ETC_20260830_070032	No tienes nada que retirar.	수령할 금액이 없습니다.				
+ETC_20260830_070033	Ya hay una distribución en curso. Espera unos segundos.	이미 분배가 진행 중입니다. 잠시 기다려 주세요.				
+ETC_20260830_070034	Uno de los miembros ha alcanzado el máximo de pagos pendientes. Pídele que retire los pendientes antes de volver a distribuir.	미수령 건이 최대치에 도달한 길드원이 있습니다. 해당 길드원이 수령한 뒤에 다시 분배해 주세요.				
+ETC_20260830_070035	El registro de retiros está lleno. Notifica al personal.	수령 기록이 가득 찼습니다. 운영진에게 알려 주세요.				
+ETC_20260830_070036	Tu gremio no controla ningún territorio con una ciudad vinculada.	길드가 점령한 영지 중 도시가 연결된 곳이 없습니다.				
+ETC_20260830_070037	{VAL} plata	{VAL} 실버				
+ETC_20260830_070038	El total introducido ({SOMA}) supera lo que queda en el fondo ({RESTANTE}).	입력한 총액({SOMA})이 정산분 잔여액({RESTANTE})을 초과합니다.				
+ETC_20260830_070039	Distribuyendo {N}/{TOTAL}...	{N}/{TOTAL} 분배 중...				
