@@ -2932,10 +2932,10 @@ UI_20171128_002931	Update Gremio Almacén.	현재 길드 보관함을 갱신합�
 UI_20171128_002932	ⓘ Spot recompensas son %s cada semana.{nl}ⓘ El recompensas include  	ⓘ 점령 보상은 매주 %s 지급됩니다.{nl}ⓘ 점령 보상금은 전 주 마켓 수수료 중에서 	UI_20170912_002852	ⓘ Spot rewards are %s every week.{nl}ⓘ The rewards include  	ⓘ 점령 보상은 매주 %s됩니다.{nl}ⓘ 점령 보상금은 전 주 마켓 수수료 중에서 	
 UI_20171128_002933	 de las comisiones del Mercado de la semana anterior.{nl}ⓘ Las recompensas por territorio se entregan como objetos de Guerra de Gremios.{nl}ⓘ La cantidad máxima posible de recompensa es de %s cientos de millones de plata.{nl}ⓘ Consulta nuestro sitio web oficial para obtener más información.	만큼 지급됩니다.{nl}ⓘ 점령 보상금은 콜로니전 기념 주화로 환산되어 지급됩니다.{nl}ⓘ 점령 보상금으로 지급되는 실버는 상한선이 존재하며, 상한선은 %s억입니다.{nl}ⓘ Beta에 지급되는 점령 보상 및 지급 일정은 위에 명시된 내용과 다를 수 있으며, 홈페이지 내 공지사항을 통해 확인 바랍니다.	UI_20170912_002853	 of your Market fees of the previous week.{nl}ⓘ Spot rewards are delivered as Copper Bars.{nl}ⓘ The maximum possible amount rewarded is %s hundred million Silver.{nl}ⓘ Please check our official website for more information.	만큼 지급됩니다.{nl}ⓘ 점령 보상금은 동괴로 환산되어 지급됩니다.{nl}ⓘ 점령 보상금으로 지급되는 실버는 상한선이 존재하며, 상한선은 %s억입니다.{nl}ⓘ Beta에 지급되는 점령 보상 및 지급 일정은 위에 명시된 내용과 다를 수 있으며, 홈페이지 내 공지사항을 통해 확인 바랍니다.	
 UI_20171128_002934	Emparejamiento automático%s	자동매칭%s				
-UI_20171128_002935	{@st41b}Introduce Now%s	{@st41b}바로입장%s	UI_20161121_002464	{@st41b}Enter Now	{@st41b}바로입장	
-UI_20171128_002936	{@st43}{#ffcc33}{s24}Clear	{@st43}{#ffcc33}{s24}클리어				
-UI_20171128_002937	{@ST43}Cleared : 	{@st43}{s24}달성률 : 				
-UI_20171128_002938	{@st43b}{s18}recibido recompensas	{@st43b}{s18}획득 보상				
+UI_20171128_002935	{@st41b}Entrar ahora%s	{@st41b}바로입장%s	UI_20161121_002464	{@st41b}Enter Now	{@st41b}바로입장	
+UI_20171128_002936	{@st43}{#ffcc33}{s24}Limpiar	{@st43}{#ffcc33}{s24}클리어				
+UI_20171128_002937	{@ST43}Limpiado : 	{@st43}{s24}달성률 : 				
+UI_20171128_002938	{@st43b}{s18}Recompensas recibidas	{@st43b}{s18}획득 보상				
 UI_20171128_002939	{@st66d_y}Multiplicar efecto de recompensa en x	{@st66d_y}배수권 효과 보상 x				
 UI_20171128_002940	{img icon_item_silver 24 24} Plata	{img icon_item_silver 24 24} 실버				
 UI_20171128_002941	{img icon_item_cube3 25 25} Cubo	{img icon_item_cube3 25 25} 큐브				
